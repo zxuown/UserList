@@ -3,7 +3,11 @@
 Welcome to my project!
 
 ## Main
-![main page](/Main.png)
+<div align="center">
+    <img src="/Main.png" alt="Main" width="200"/>
+</div>
 
 ## User activity
-![user activity](/UserActivity.png)
+<div align="center">
+    <img src="/UserActivity.png" alt="Main" width="200"/>
+</div>
